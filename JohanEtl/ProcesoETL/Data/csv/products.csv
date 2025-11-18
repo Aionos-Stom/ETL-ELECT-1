@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,Price,Stock
+1,Laptop Dell Inspiron,Electrónicos,15999.99,25
+2,Smartphone Samsung Galaxy,Electrónicos,8999.99,50
+3,Audífonos Sony,Electrónicos,2499.99,100
+4,Teclado Mecánico RGB,Computadoras,1499.99,75
+5,Monitor LG 27 pulgadas,Monitores,4499.99,30
+

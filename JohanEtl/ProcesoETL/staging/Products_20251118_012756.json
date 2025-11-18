@@ -1,0 +1,42 @@
+[
+  {
+    "ProductID": 1,
+    "ProductName": "Laptop Dell Inspiron",
+    "Category": "Electr\u00F3nicos",
+    "Price": 15999.99,
+    "Stock": 25,
+    "OrderDetails": []
+  },
+  {
+    "ProductID": 2,
+    "ProductName": "Smartphone Samsung Galaxy",
+    "Category": "Electr\u00F3nicos",
+    "Price": 8999.99,
+    "Stock": 50,
+    "OrderDetails": []
+  },
+  {
+    "ProductID": 3,
+    "ProductName": "Aud\u00EDfonos Sony",
+    "Category": "Electr\u00F3nicos",
+    "Price": 2499.99,
+    "Stock": 100,
+    "OrderDetails": []
+  },
+  {
+    "ProductID": 4,
+    "ProductName": "Teclado Mec\u00E1nico RGB",
+    "Category": "Computadoras",
+    "Price": 1499.99,
+    "Stock": 75,
+    "OrderDetails": []
+  },
+  {
+    "ProductID": 5,
+    "ProductName": "Monitor LG 27 pulgadas",
+    "Category": "Monitores",
+    "Price": 4499.99,
+    "Stock": 30,
+    "OrderDetails": []
+  }
+]

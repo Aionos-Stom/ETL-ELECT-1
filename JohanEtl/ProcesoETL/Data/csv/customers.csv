@@ -1,0 +1,7 @@
+CustomerID,FirstName,LastName,Email,Phone,City,Country
+1,Juan,Pérez,juan.perez@email.com,5551234567,Ciudad de México,México
+2,María,García,maria.garcia@email.com,5559876543,Guadalajara,México
+3,Carlos,Rodríguez,carlos.rodriguez@email.com,5554567890,Monterrey,México
+4,Ana,López,ana.lopez@email.com,5557890123,Puebla,México
+5,Luis,Martínez,luis.martinez@email.com,5552345678,Tijuana,México
+

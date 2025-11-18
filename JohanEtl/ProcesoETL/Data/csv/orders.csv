@@ -1,0 +1,7 @@
+OrderID,CustomerID,OrderDate,Status
+1,1,2024-01-15,Pendiente
+2,2,2024-01-16,Completado
+3,3,2024-01-17,En Proceso
+4,1,2024-01-18,Completado
+5,4,2024-01-19,Pendiente
+

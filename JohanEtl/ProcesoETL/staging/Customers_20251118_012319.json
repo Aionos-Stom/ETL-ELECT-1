@@ -1,0 +1,52 @@
+[
+  {
+    "CustomerID": 1,
+    "FirstName": "Juan",
+    "LastName": "P\u00E9rez",
+    "Email": "juan.perez@email.com",
+    "Phone": "5551234567",
+    "City": "Ciudad de M\u00E9xico",
+    "Country": "M\u00E9xico",
+    "Orders": []
+  },
+  {
+    "CustomerID": 2,
+    "FirstName": "Mar\u00EDa",
+    "LastName": "Garc\u00EDa",
+    "Email": "maria.garcia@email.com",
+    "Phone": "5559876543",
+    "City": "Guadalajara",
+    "Country": "M\u00E9xico",
+    "Orders": []
+  },
+  {
+    "CustomerID": 3,
+    "FirstName": "Carlos",
+    "LastName": "Rodr\u00EDguez",
+    "Email": "carlos.rodriguez@email.com",
+    "Phone": "5554567890",
+    "City": "Monterrey",
+    "Country": "M\u00E9xico",
+    "Orders": []
+  },
+  {
+    "CustomerID": 4,
+    "FirstName": "Ana",
+    "LastName": "L\u00F3pez",
+    "Email": "ana.lopez@email.com",
+    "Phone": "5557890123",
+    "City": "Puebla",
+    "Country": "M\u00E9xico",
+    "Orders": []
+  },
+  {
+    "CustomerID": 5,
+    "FirstName": "Luis",
+    "LastName": "Mart\u00EDnez",
+    "Email": "luis.martinez@email.com",
+    "Phone": "5552345678",
+    "City": "Tijuana",
+    "Country": "M\u00E9xico",
+    "Orders": []
+  }
+]

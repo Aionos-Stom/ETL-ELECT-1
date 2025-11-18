@@ -1,0 +1,194 @@
+[
+  {
+    "OrderDetailID": 1,
+    "OrderID": 1,
+    "ProductID": 1,
+    "Quantity": 1,
+    "TotalPrice": 15999.99,
+    "Order": {
+      "OrderID": 1,
+      "CustomerID": 0,
+      "OrderDate": "0001-01-01T00:00:00",
+      "Status": null,
+      "Customer": {
+        "CustomerID": 0,
+        "FirstName": null,
+        "LastName": null,
+        "Email": null,
+        "Phone": null,
+        "City": null,
+        "Country": null,
+        "Orders": []
+      },
+      "OrderDetails": []
+    },
+    "Product": {
+      "ProductID": 1,
+      "ProductName": null,
+      "Category": null,
+      "Price": 0,
+      "Stock": 0,
+      "OrderDetails": []
+    }
+  },
+  {
+    "OrderDetailID": 2,
+    "OrderID": 1,
+    "ProductID": 3,
+    "Quantity": 2,
+    "TotalPrice": 4999.98,
+    "Order": {
+      "OrderID": 1,
+      "CustomerID": 0,
+      "OrderDate": "0001-01-01T00:00:00",
+      "Status": null,
+      "Customer": {
+        "CustomerID": 0,
+        "FirstName": null,
+        "LastName": null,
+        "Email": null,
+        "Phone": null,
+        "City": null,
+        "Country": null,
+        "Orders": []
+      },
+      "OrderDetails": []
+    },
+    "Product": {
+      "ProductID": 3,
+      "ProductName": null,
+      "Category": null,
+      "Price": 0,
+      "Stock": 0,
+      "OrderDetails": []
+    }
+  },
+  {
+    "OrderDetailID": 3,
+    "OrderID": 2,
+    "ProductID": 2,
+    "Quantity": 1,
+    "TotalPrice": 8999.99,
+    "Order": {
+      "OrderID": 2,
+      "CustomerID": 0,
+      "OrderDate": "0001-01-01T00:00:00",
+      "Status": null,
+      "Customer": {
+        "CustomerID": 0,
+        "FirstName": null,
+        "LastName": null,
+        "Email": null,
+        "Phone": null,
+        "City": null,
+        "Country": null,
+        "Orders": []
+      },
+      "OrderDetails": []
+    },
+    "Product": {
+      "ProductID": 2,
+      "ProductName": null,
+      "Category": null,
+      "Price": 0,
+      "Stock": 0,
+      "OrderDetails": []
+    }
+  },
+  {
+    "OrderDetailID": 4,
+    "OrderID": 3,
+    "ProductID": 4,
+    "Quantity": 1,
+    "TotalPrice": 1499.99,
+    "Order": {
+      "OrderID": 3,
+      "CustomerID": 0,
+      "OrderDate": "0001-01-01T00:00:00",
+      "Status": null,
+      "Customer": {
+        "CustomerID": 0,
+        "FirstName": null,
+        "LastName": null,
+        "Email": null,
+        "Phone": null,
+        "City": null,
+        "Country": null,
+        "Orders": []
+      },
+      "OrderDetails": []
+    },
+    "Product": {
+      "ProductID": 4,
+      "ProductName": null,
+      "Category": null,
+      "Price": 0,
+      "Stock": 0,
+      "OrderDetails": []
+    }
+  },
+  {
+    "OrderDetailID": 5,
+    "OrderID": 4,
+    "ProductID": 5,
+    "Quantity": 1,
+    "TotalPrice": 4499.99,
+    "Order": {
+      "OrderID": 4,
+      "CustomerID": 0,
+      "OrderDate": "0001-01-01T00:00:00",
+      "Status": null,
+      "Customer": {
+        "CustomerID": 0,
+        "FirstName": null,
+        "LastName": null,
+        "Email": null,
+        "Phone": null,
+        "City": null,
+        "Country": null,
+        "Orders": []
+      },
+      "OrderDetails": []
+    },
+    "Product": {
+      "ProductID": 5,
+      "ProductName": null,
+      "Category": null,
+      "Price": 0,
+      "Stock": 0,
+      "OrderDetails": []
+    }
+  },
+  {
+    "OrderDetailID": 6,
+    "OrderID": 5,
+    "ProductID": 1,
+    "Quantity": 1,
+    "TotalPrice": 15999.99,
+    "Order": {
+      "OrderID": 5,
+      "CustomerID": 0,
+      "OrderDate": "0001-01-01T00:00:00",
+      "Status": null,
+      "Customer": {
+        "CustomerID": 0,
+        "FirstName": null,
+        "LastName": null,
+        "Email": null,
+        "Phone": null,
+        "City": null,
+        "Country": null,
+        "Orders": []
+      },
+      "OrderDetails": []
+    },
+    "Product": {
+      "ProductID": 1,
+      "ProductName": null,
+      "Category": null,
+      "Price": 0,
+      "Stock": 0,
+      "OrderDetails": []
+    }
+  }
+]

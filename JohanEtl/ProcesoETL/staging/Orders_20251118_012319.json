@@ -1,0 +1,87 @@
+[
+  {
+    "OrderID": 1,
+    "CustomerID": 1,
+    "OrderDate": "2024-01-15T00:00:00",
+    "Status": "Pendiente",
+    "Customer": {
+      "CustomerID": 1,
+      "FirstName": null,
+      "LastName": null,
+      "Email": null,
+      "Phone": null,
+      "City": null,
+      "Country": null,
+      "Orders": []
+    },
+    "OrderDetails": []
+  },
+  {
+    "OrderID": 2,
+    "CustomerID": 2,
+    "OrderDate": "2024-01-16T00:00:00",
+    "Status": "Completado",
+    "Customer": {
+      "CustomerID": 2,
+      "FirstName": null,
+      "LastName": null,
+      "Email": null,
+      "Phone": null,
+      "City": null,
+      "Country": null,
+      "Orders": []
+    },
+    "OrderDetails": []
+  },
+  {
+    "OrderID": 3,
+    "CustomerID": 3,
+    "OrderDate": "2024-01-17T00:00:00",
+    "Status": "En Proceso",
+    "Customer": {
+      "CustomerID": 3,
+      "FirstName": null,
+      "LastName": null,
+      "Email": null,
+      "Phone": null,
+      "City": null,
+      "Country": null,
+      "Orders": []
+    },
+    "OrderDetails": []
+  },
+  {
+    "OrderID": 4,
+    "CustomerID": 1,
+    "OrderDate": "2024-01-18T00:00:00",
+    "Status": "Completado",
+    "Customer": {
+      "CustomerID": 1,
+      "FirstName": null,
+      "LastName": null,
+      "Email": null,
+      "Phone": null,
+      "City": null,
+      "Country": null,
+      "Orders": []
+    },
+    "OrderDetails": []
+  },
+  {
+    "OrderID": 5,
+    "CustomerID": 4,
+    "OrderDate": "2024-01-19T00:00:00",
+    "Status": "Pendiente",
+    "Customer": {
+      "CustomerID": 4,
+      "FirstName": null,
+      "LastName": null,
+      "Email": null,
+      "Phone": null,
+      "City": null,
+      "Country": null,
+      "Orders": []
+    },
+    "OrderDetails": []
+  }
+]
